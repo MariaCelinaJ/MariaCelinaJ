@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Ciência de Dados | Analista de Dados | Cientista de Dados | Engenheira de Dados | Engenheira de ML |Python | R | SQL | Tableau | Aprendizado da máquina...
+## Ciência de Dados | Analista de Dados | Cientista de Dados | Engenheira de Dados | Engenheira de ML |Python | R | SQL | Tableau | Aprendizagem de máquina...
 
 Sou graduada em Sistemas de Informação e pós-graduação em Ciências de Dados com ênfase em Processamento e Análise de dados, tenho conhecimento em diversas áreas relacionadas à tecnologia. Tenho paixão pela tecnologia, especialmente em relação à programação, possuo conhecimentos sólidos em linguagens de programação como Python, R, SQL entre outras linguagens de programação.
 
@@ -42,7 +42,7 @@ Sou capaz de enfrentar os desafios de diferentes áreas de atuação dentro da c
 
 ### Redes Sociais
 
-<p align="left"> <a href="https://www.github.com/MariaCelinaJ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /> </a> <a href="https://www.linkedin.com/in/maria-celina-jara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/MariaCelinaJ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maria-celina-jara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
