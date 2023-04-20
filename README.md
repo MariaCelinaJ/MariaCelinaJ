@@ -1,4 +1,4 @@
-### Olá, meu nome é Maria👋
+### Olá! Eu sou a Maria👋
 
 <!--
 **MariaCelinaJ/MariaCelinaJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
