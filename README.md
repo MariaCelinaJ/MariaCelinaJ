@@ -44,10 +44,5 @@ Sou capaz de enfrentar os desafios de diferentes áreas de atuação dentro da c
 
 <p align="left"> <a href="https://www.github.com/MariaCelinaJ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maria-celina-jara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/MariaCelinaJ"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MariaCelinaJ&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ⚠️ Esta página está em construção e será um recurso para consultar meus notebooks de estudo e projetos elaborados em aulas, bem como alguns projetos pessoais para portfólio e demonstração. Quando estiver concluída, você poderá encontrar informações sobre como abordar problemas e projetos relacionados a programação, ciência de dados e análise de dados. Fique à vontade para verificar esta página regularmente!
